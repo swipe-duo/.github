@@ -1,4 +1,4 @@
-### Welcome to **SwipeDuo**,  your hassle-free dating in Asia.
+## Welcome to **SwipeDuo**,  your hassle-free dating in Asia.
 
 SwipeDuo is not just another dating app; it's your ultimate matchmaker. With our innovative dual-swipe feature, we revolutionize the way you discover connections. Say goodbye to endless scrolling and hello to meaningful matches in a flash. Whether you're seeking romance, friendship, or something in between, SwipeDuo is your trusted wingman on the journey of love. Join the SwipeDuo community today and let destiny swipe right into your life.
 
