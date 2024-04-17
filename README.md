@@ -1,2 +1,2 @@
-# .github
-a ✨special ✨ repository to add README.md and Discussions to public organization profile, visible to anyone.
+# SwipeDuo
+a ✨special ✨ repository to add README.md and Discussions to public organization profiles, visible to anyone.
