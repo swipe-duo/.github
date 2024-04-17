@@ -1,4 +1,4 @@
-Welcome to **SwipeDuo**,  your hassle-free dating in Asia.
+### Welcome to **SwipeDuo**,  your hassle-free dating in Asia.
 
 
 ## "Find Your Perfect Pair with SwipeDuo" - Our Slogan and Purpose
